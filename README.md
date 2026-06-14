@@ -80,9 +80,9 @@ aws-healthcare-data-lake/
 ## Dataset
 
 **Source:** CMS Medicare Physician and Other Practitioners by Provider  
-**URL:** https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners  
-**File:** Provider and Services CSV (~100MB)  
-**Year:** 2022  
+**URL:** https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider/data
+**File:** Provider and Services CSV (~570MB)  
+**Year:** 2024  
 **License:** Public domain (U.S. government open data)
 
 Each row in the dataset represents a unique provider-service combination: a doctor or medical practice, the procedure they billed Medicare for, the number of times they billed it, and the total Medicare payment amount.
