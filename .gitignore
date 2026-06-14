@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+
+# AWS CLI installer
+awscliv2.pkg
+
+# R history 
+.Rhistory
+
+# python 
+__pycache__/
+*.pyc
+.env
+
+# Terraform 
+.terraform/
+*.tfstate
+*.tfstate.backup
